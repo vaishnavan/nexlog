@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Merriweather';
+    src: url('/public/Merriweather/Merriweather-Regular.ttf') format('ttf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('/public/Merriweather/Merriweather-Black.ttf') format('ttf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('/public/Merriweather/Merriweather-BlackItalic.ttf') format('ttf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('/public/Merriweather/Merriweather-Italic.ttf') format('ttf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('/public/Merriweather/Merriweather-Light.ttf') format('ttf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('/public/Merriweather/Merriweather-LightItalic.ttf') format('ttf');
+    font-display: swap;
+}
